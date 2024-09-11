@@ -1,4 +1,8 @@
-[![MasterHead](https://i.pinimg.com/564x/9c/e1/de/9ce1de274eed6d79cd748427a73a830b.jpg)](https://www.linkedin.com/in/realiquezjoshua/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/realiquezjoshua/">
+    <img src="https://i.pinimg.com/564x/9c/e1/de/9ce1de274eed6d79cd748427a73a830b.jpg" alt="MasterHead" />
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Joshua Realiquez</h1>
 <h3 align="center">A passionate fullstack developer from Guatemala</h3>
