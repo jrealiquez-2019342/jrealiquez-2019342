@@ -1,34 +1,306 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/realiquezjoshua/">
-    <img src="https://i.pinimg.com/564x/9c/e1/de/9ce1de274eed6d79cd748427a73a830b.jpg" alt="MasterHead" />
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="Joshua Realiquez Sosa - Cybersecurity Analyst">
+</picture>
+
+<br>
+
+<a href="https://github.com/jrealiquez-2019342">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Joshua+Realiquez+Sosa+-+Cybersecurity+Analyst;SOC+%7C+Threat+Intelligence+%7C+Software+Development;Security+%2B+Code;Learning.+Building.+Investigating." alt="typing banner">
+</a>
+
+<br><br>
+
+<a href="www.linkedin.com/in/realiquezjoshua">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/jrealiquez-2019342">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jrealiquez-2019342&style=flat&color=00d9ff&label=profile+views" alt="profile views">
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Joshua Realiquez</h1>
-<h3 align="center">A passionate fullstack developer from Guatemala</h3>
-<img align="right" alt="Coding" width="250" src="https://redteam360.com/wp-content/uploads/2021/09/ethical-hacker-junior.png" />
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrealiquez-2019342&label=Profile%20views&color=0e75b6&style=flat" alt="jrealiquez-2019342" /> </p>
+## This is me :)
 
-- 🔭 I’m currently working on **Mi voto**
+Hi, I'm **Joshua**, a Cybersecurity Analyst from Guatemala 🇬🇹.
 
-- 🌱 I’m currently learning **Cybersecurity and MERN**
+I work in a corporate **SOC environment**, focused on security alert analysis,
+incident triage and **Threat Intelligence**.
 
-- 💬 Ask me about **Cybersecurity and MERN**
+Outside of cybersecurity, I enjoy building software and exploring different
+technologies — from full-stack web applications to backend development and
+databases.
 
-- 📫 How to reach me **jrealiquez-2019342@kinal.edu.gt**
+I like being somewhere between **security and software**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/realiquezjoshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realiquezjoshua" height="30" width="40" /></a>
-<a href="https://instagram.com/j8xuaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j8xuaaa" height="30" width="40" /></a>
-</p>
+* 🛡️ **Cybersecurity Analyst** — SOC operations, alert analysis, triage and investigation.
+* 🕵️ **Threat Intelligence** — IOC analysis, threat research, TTPs and security context.
+* 🔎 **Security Operations** — experience working with SIEM, EDR/XDR and security platforms.
+* 💻 **Full-Stack Development** — MERN stack and modern web application development.
+* ☕ **Backend Development** — Java and Spring Boot.
+* 🗄️ **Databases** — MySQL and MongoDB.
+* 🌐 **Frontend** — React and some experience with Angular.
+* 🌱 **Always learning** — currently strengthening my cybersecurity, cloud and software development skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrealiquez-2019342&show_icons=true&locale=en&layout=compact" alt="jrealiquez-2019342" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2019342&show_icons=true&locale=en" alt="jrealiquez-2019342" /></p>
+## my stack `
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrealiquez-2019342&" alt="jrealiquez-2019342" /></p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,java,spring,mysql,angular,cpp,git,github,docker,vscode&perline=5" alt="technology stack">
+
+</div>
+
+---
+
+<div align="center">
+
+## signals
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="skills radar">
+</picture>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+### what I work with
+
+```text
+Threat Intelligence     █████████░  90%
+SOC Operations          ██████████  100%
+Security Investigation  ████████░░  80%
+SIEM / EDR              ██████████  100%
+Web Development         ████████░░  80%
+Backend Development     █████████░  90%
+Databases               ███████░░░  70%
+Cloud Fundamentals      █████░░░░░  50%
+Angular                 ████░░░░░░  40%
+```
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## security
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🛡️
+
+**SOC**
+
+Alert Triage
+SIEM
+EDR / XDR
+Investigation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🕵️
+
+**Threat Intelligence**
+
+IOC Analysis
+Threat Research
+TTPs
+Threat Context
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔎
+
+**Security**
+
+Security Analysis
+Incident Triage
+Log Analysis
+Detection
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Security Tools**
+
+MISP
+GTI
+ANY.RUN
+FOFA
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## software
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### ⚛️
+
+**Frontend**
+
+React
+Angular
+JavaScript
+
+</td>
+
+<td align="center" width="33%">
+
+### ☕
+
+**Backend**
+
+Node.js
+Express
+Spring Boot
+Java
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️
+
+**Data**
+
+MongoDB
+MySQL
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## tools I use
+
+<div align="center">
+
+|           Area          | Technologies                                                                |
+| :---------------------: | :-------------------------------------------------------------------------- |
+|         **SIEM**        | QRadar · Splunk · Microsoft Sentinel · LogRhythm                            |
+|      **EDR / XDR**      | Microsoft Defender · Cortex XDR                                             |
+|   **Network Security**  | FortiGate · Check Point · Cisco Umbrella · Forescout                        |
+| **Threat Intelligence** | MISP · Google Threat Intelligence · Mandiant · IBM X-Force · ANY.RUN · FOFA |
+|   **Query / Analysis**  | KQL · SPL · Log Analysis                                                    |
+|       **Frontend**      | React · Angular · JavaScript                                                |
+|       **Backend**       | Node.js · Express · Spring Boot · Java                                      |
+|      **Databases**      | MongoDB · MySQL                                                             |
+|     **Development**     | C++ · Git · GitHub · VS Code                                                |
+
+</div>
+
+---
+
+<div align="center">
+
+## Numbers matter? apparently.
+
+<img src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2019342&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8b949e" alt="GitHub statistics">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrealiquez-2019342&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=8b949e" alt="Most used languages">
+
+</div>
+
+---
+
+<div align="center">
+
+## currently learning
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│                     CYBERSECURITY                          │
+│                           │                                │
+│             ┌─────────────┼─────────────┐                  │
+│             │             │             │                  │
+│             ▼             ▼             ▼                  │
+│            SOC           CTI        SECURITY               │
+│             │             │         ANALYSIS                │
+│             └─────────────┼─────────────┘                  │
+│                           │                                │
+│                           ▼                                │
+│                      SOFTWARE                              │
+│                           │                                │
+│                ┌──────────┴──────────┐                     │
+│                ▼                     ▼                     │
+│             BACKEND               FULL-STACK                │
+│          Spring Boot              MERN                      │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## beyond the alerts
+
+I enjoy understanding how technology works,
+
+**breaking problems down, building solutions, and learning how to defend them.**
+
+<br>
+
+`security · code · curiosity`
+
+<br><br>
+
+<sub>Built with curiosity from Guatemala 🇬🇹</sub>
+
+</div>
